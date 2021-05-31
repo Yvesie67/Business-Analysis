@@ -1,2 +1,2 @@
-# Business-Analysis
+# Boutique-Analysis
 Boutique Project
